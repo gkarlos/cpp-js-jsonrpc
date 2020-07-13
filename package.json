@@ -1,0 +1,15 @@
+{
+  "name": "cpp-js-jsonrpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jayson": "^3.3.3",
+    "npm": "^6.14.6"
+  }
+}
